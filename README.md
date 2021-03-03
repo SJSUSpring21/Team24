@@ -1,4 +1,4 @@
-# Team24
+# WASH Analytics
 Water and sanitation data analytics:
 
 1. Introduction to the problem statement
