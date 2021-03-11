@@ -26,3 +26,6 @@ Team members
 2. Karan Pinakinbhai Jariwala
 
 3. Parshv Nileshkumar Patel
+
+## Architecture Diagram 
+https://github.com/SJSUSpring21/WASH-Analytics/issues/1#issue-829602625
