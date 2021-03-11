@@ -28,4 +28,5 @@ Team members
 3. Parshv Nileshkumar Patel
 
 ## Architecture Diagram 
-https://github.com/SJSUSpring21/WASH-Analytics/issues/1#issue-829602625
+![WASH-Analytics](https://user-images.githubusercontent.com/41836462/110868513-92c77480-827d-11eb-83ed-e92fa7129339.png)
+
