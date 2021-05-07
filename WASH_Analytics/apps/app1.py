@@ -36,7 +36,7 @@ layout = html.Div(
              className="header",
             ),
         html.Div(children=[
-            dcc.Link('Unsafe WASH Mortality Rate', href='/wash-home', className="tabfirst"),
+            dcc.Link('Unsafe WASH Mortality Rate', href='/', className="tabfirst"),
             dcc.Link('Country wise Improvements', href='/country-sanitation', className="tab"),
             dcc.Link('Mean Population Analysis', href='/mean-service', className="tab"),
             dcc.Link('Water service Coverage', href='/median-service', className="tab"),
