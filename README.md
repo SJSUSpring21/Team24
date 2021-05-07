@@ -15,7 +15,13 @@ We are building a model that plots the performance of different countries in a g
 
 The first part analysis will be done on the water sanitation and mortality rate data. We will visualize the data using Machine Learning and will perform Exploratory Data Analysis on it and then will plot the graphs accordingly between countries or regions and basic water and sanitation services. In the UI part there will be options to search for countries or regions for which the user wants to visualize the data and based on the search criteria graphs will be plotted depicting the performance with respect to water and sanitation facilities. We will be predicting mortality rate with linear regression, decision tree regression and k-NN regression models and show the graphs in the UI. 
 
-4. Dataset links (if any)
+4. Persona
+
+* This application is intended for health care and social workers across the world to understand the water sanitation levels and mortality rates attributed to unsafe WASH services.
+* This application also provides predictions about how the quality of WASH services should be imporoved inorder to cut down the mortality rates due to unsafe WASH services.
+
+
+5. Dataset links (if any)
 
 https://data.unicef.org/topic/water-and-sanitation/sanitation/
 
@@ -34,15 +40,15 @@ Team members
 ## Architecture Diagram 
 ![WASH-Analytics](https://user-images.githubusercontent.com/41836462/110868513-92c77480-827d-11eb-83ed-e92fa7129339.png)
 
-5. Technology Stack
+6. Technology Stack
 
-Dash
-Python
-ReactJS
-Plotly
-Flask
-Pandas
-Sklearn
-Collab
-IBM Cloud
+* Dash
+* Python
+* ReactJS
+* Plotly
+* Flask
+* Pandas
+* Sklearn
+* Collab
+* IBM Cloud
 
