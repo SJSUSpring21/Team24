@@ -25,7 +25,7 @@ layout = go.Layout(
     barmode='group',
     title="Median of different water services by year",
     xaxis_title="Year",
-    yaxis_title="Service level",
+    yaxis_title="Service level coverage",
 )
 fig = go.Figure(data=res, layout=layout)
 
@@ -42,10 +42,12 @@ layout = html.Div(
              className="header",
             ),
         html.Div(children=[
-            dcc.Link('WASH Home', href='/wash-home', className="tab"),
-            dcc.Link('Country wise Sanitation', href='/country-sanitation', className="tab"),
-            dcc.Link('Mean water service level', href='/mean-service', className="tab"),
-            dcc.Link('Median water service level', href='/median-service', className="tab first"),
+            dcc.Link('Unsafe WASH Mortality Rate', href='/wash-home', className="tab"),
+            dcc.Link('Country wise Improvements', href='/country-sanitation', className="tab"),
+            dcc.Link('Mean Population Analysis', href='/mean-service', className="tab"),
+            dcc.Link('Water service Coverage', href='/median-service', className="tabfirst"),
+            dcc.Link('Mortality Rate Vs Service Level', href='/comparison', className="tab"),
+            dcc.Link('Mortality Rate Prediction', href='/prediction', className="tab"),
             ]
         ),
         html.Div(

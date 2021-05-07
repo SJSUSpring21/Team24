@@ -3,8 +3,8 @@ import dash_html_components as html
 from dash.dependencies import Input, Output
 
 from app import app
-from apps import app1,app2,app3,app4
-
+from apps import app1,app2,app3,app4,app5,app6
+app.title = 'WASH Analytics'
 app.layout = html.Div([
     dcc.Location(id='url', refresh=False),
     html.Div(id='page-content')
@@ -21,6 +21,10 @@ def display_page(pathname):
         return app3.layout
     elif pathname == '/median-service':
         return app4.layout
+    elif pathname == '/comparison':
+        return app5.layout
+    elif pathname == '/prediction':
+        return app6.layout
     else:
         return '404'
 
