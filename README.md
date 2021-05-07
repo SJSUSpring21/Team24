@@ -49,6 +49,6 @@ https://www.who.int/data/gho/data/indicators/indicator-details/GHO/mortality-rat
 * Flask
 * Pandas
 * Sklearn
-* Collab
+* Google Colab
 * IBM Cloud
 
