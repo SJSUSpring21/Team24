@@ -38,7 +38,7 @@ https://www.who.int/data/gho/data/indicators/indicator-details/GHO/mortality-rat
 3. Parshv Nileshkumar Patel
 
 ## Architecture Diagram 
-![WASH-Analytics](https://user-images.githubusercontent.com/41836462/110868513-92c77480-827d-11eb-83ed-e92fa7129339.png)
+![WASH-Analytics](https://user-images.githubusercontent.com/41836462/117549264-328b4f80-afee-11eb-9f05-5d83165d615e.png)
 
 ## Technology Stack
 
