@@ -23,8 +23,6 @@ The first part analysis will be done on the water sanitation and mortality rate 
 
 ## Dataset links (if any)
 
-https://data.unicef.org/topic/water-and-sanitation/sanitation/
-
 https://www.kaggle.com/aliyatyshkanbayeva/analysis-on-drinking-water-sanitation-and-hygiene
 
 https://www.who.int/data/gho/data/indicators/indicator-details/GHO/mortality-rate-attributed-to-exposure-to-unsafe-wash-services-(per-100-000-population)-(sdg-3-9-2)
