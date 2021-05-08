@@ -50,5 +50,5 @@ https://www.who.int/data/gho/data/indicators/indicator-details/GHO/mortality-rat
 * Pandas
 * Sklearn
 * Google Colab
-* IBM Cloud
+* AWS 
 
